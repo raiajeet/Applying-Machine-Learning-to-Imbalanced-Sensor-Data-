@@ -1,1 +1,2 @@
 # Applying Machine Learning to Imbalanced Sensor Data
+### This project was part of my data science intern at Teras energies LLP Mumbai. The objective was to predict the failure of turbine sensor data. The data was generated from one of the hydropower plants in India. There was lots of cleaning and pre-processing steps involved in this project. Since data was highly imbalanced, we tried different sampling methods. We used three models Logistic Regression, Decision tree and Random forest. Results were very good since sampling techniques improves the performance of the models.
