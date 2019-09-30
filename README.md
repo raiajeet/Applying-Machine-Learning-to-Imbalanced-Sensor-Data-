@@ -1,1 +1,1 @@
-# Applying-Machine-Learning-to-Imbalanced-Sensor-Data-
+# Applying Machine Learning to Imbalanced Sensor Data
